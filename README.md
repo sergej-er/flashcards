@@ -2,7 +2,7 @@
 - HTML, CSS, JS
 - Bootstrap, FontAwesome, jQuery
 
-#Todos
+# Todos
 - [ ] Clean up code
 - [ ] OOP
 - [ ] Edit Flashcards
