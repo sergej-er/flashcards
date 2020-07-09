@@ -1,3 +1,5 @@
+https://sergej-er.github.io/flashcards/
+
 # Flashcards
 - HTML, CSS, JS
 - Bootstrap, FontAwesome, jQuery
