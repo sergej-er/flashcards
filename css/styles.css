@@ -1,0 +1,68 @@
+html {
+  height: 100%;
+}
+
+body {
+  color: #222831;
+  background-color: #393e46;
+  font-family: "Open Sans";
+}
+
+.main-content {
+  margin: 32px auto;
+  max-width: 512px;
+}
+
+.main-heading {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  font-family: "Montserrat";
+  margin: 32px 16px;
+}
+
+.sub-heading {
+  font-family: "Montserrat";
+  margin: 32px 0;
+}
+
+.new-flashcard-content,
+.flashcard {
+  border-radius: 16px;
+}
+
+.flashcard-input,
+.flashcard-input:focus {
+  background-color: #eeeeee;
+}
+
+.flashcard-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flashcard {
+  margin: 16px;
+}
+
+.flashcard-title,
+.flashcard-text {
+  padding: 2px;
+}
+
+.btn-toggle-answer,
+.btn-toggle-answer:focus {
+  outline: none;
+  box-shadow: none;
+  padding: 0;
+}
+
+.flashcard-controls {
+  margin-top: 16px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.hidden {
+  display: none;
+}
